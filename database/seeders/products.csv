@@ -1,0 +1,25 @@
+name,price,category,tax_rate_id,store_id,image_file_name
+カップラーメン,2616,food,2,2,noodle.png
+完全食,4080,food,2,6,complete_food.png
+牛ヒレ角切りステーキ,4490,food,2,2,steak.png
+水,1034,soft_drink,2,6,water.png
+トマトジュース,1818,soft_drink,2,1,tomato_juice.png
+お茶,1981,soft_drink,2,7,tea.png
+ビール,2327,alcoholic_drink,1,1,beer.png
+ウイスキー,4980,alcoholic_drink,1,1,whisky.png
+ワイン,12600,alcoholic_drink,1,1,wine.png
+自己啓発本,1200,book,1,4,iko_keihatsu.png
+六法全書,6500,book,1,4,book_law.png
+楽譜,3200,book,1,4,music.png
+水鉄砲,350,toys,1,5,water_gun.png
+プール,4100,toys,1,5,pool.png
+積み木,1200,toys,1,6,tsumiki.png
+いい感じの帽子,4000,fashion,1,5,cap
+Tシャツ,30000,fashion,1,5,tshirt.png
+ジャケット,100000,fashion,1,5,jacket.png
+ノートPC,164800,computers,1,6,pc_note.png
+タブレット,278800,computers,1,6,tablet.png
+Windows デスクトップ,351000,computers,1,6,pc_desktop.png
+ドリルビット,551,diy,1,3,drill_bit.png
+インパクトドライバ,15634,diy,1,3,impact_driver.png
+ノコギリ,1123,diy,1,3,nokogiri.png
